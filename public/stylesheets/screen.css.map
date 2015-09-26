@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "screen.css",
+	"sources": [
+		"../../src/stylesheets/screen.sass"
+	],
+	"sourcesContent": [],
+	"mappings": "AAAA,EAAE,AAAC,CACD,KAAK,CAAE,GAAI,CADT,AAGJ,EAAE,AAAC,CACD,KAAK,CAAE,IAAK,CADV",
+	"names": []
+}
